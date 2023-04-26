@@ -1,0 +1,28 @@
+.formDiv{
+    margin: auto;
+    align-content: center;
+    max-width: 420px;
+    padding: 15px;
+    margin-top: 70px;
+    height: 300px;
+
+    h4{
+        color: black;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 2em;
+        padding-top: 10px;
+    }
+
+    .col-md-12{
+        margin-bottom: 12px;
+    }
+
+    textarea{
+        height: 100px
+    }
+
+    .mt-2{
+        width: 100%
+    }
+}
+

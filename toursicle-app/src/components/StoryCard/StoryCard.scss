@@ -1,0 +1,68 @@
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.tag-card {
+    margin-left: 8px;
+    color: #806a78;
+    display: inline-block;
+    width: 65%;
+}
+
+.btn-card {
+    float: right;
+    padding-right: 15px;
+}
+.header-text {
+    color: #606080;
+    font-weight: 500;
+    margin-top: 7px;
+    font-size: 17px;
+
+}
+
+.col{
+    padding-left: 25px;
+}
+
+.card-group{
+    max-width: 20rem;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.card-title{
+    color: grey;
+    font-size: xx-large;
+    font-style: normal;
+}
+
+.link {
+    float: right;
+}
+
+.like-panel{
+    width:32%;
+    float:right;
+    display: inline;
+}
+
+.tag-container{
+    padding-top: 5px;
+    float: left;
+}
+
+.grow.card { 
+    transition: all .3s ease-in-out; 
+}
+    
+.grow.card:hover { 
+    transform: scale(0.9); 
+    // box-shadow: crimson 1px 0 10px;
+    // animation: glow 1s ease-in-out infinite alternate;
+}
